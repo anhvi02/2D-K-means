@@ -17,3 +17,4 @@ A project to practice K-means Algorithm.
 - Sklearn: Scaler, Imputer, models, evaluation metrics, confusion matrix
 
 # Thank you!
+# Author: Vi Pham
